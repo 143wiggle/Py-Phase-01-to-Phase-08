@@ -1,4 +1,4 @@
-python-programming-roadmap/
+Py-Phase-01-to-Phase-08/
 │
 ├── Phase_1_Basic_Fundamentals/
 │   ├── README.md
